@@ -18943,10 +18943,10 @@ typedarray@^0.0.6:
   resolved "https://registry.npmjs.org/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typescript@^3.7.2:
-  version "3.7.2"
-  resolved "https://registry.npmjs.org/typescript/-/typescript-3.7.2.tgz#27e489b95fa5909445e9fef5ee48d81697ad18fb"
-  integrity sha512-ml7V7JfiN2Xwvcer+XAf2csGO1bPBdRbFCkYBczNZggrBZ9c7G3riSUeJmqEU5uOtXNPMhE3n+R4FA/3YOAWOQ==
+typescript@^3.8.0-dev.20200107:
+  version "3.8.0-dev.20200107"
+  resolved "https://registry.npmjs.org/typescript/-/typescript-3.8.0-dev.20200107.tgz#ac484b37c7840edb2d267356f39a6e8b6bfca081"
+  integrity sha512-VokIlarSEn/L+jLm9V24iioQgibtskv08kOuJVFEpj0TykXhpZ2m5VqRMpTVSB4kWBKJFzN/twvz3PwcAwxBYg==
 
 ua-parser-js@^0.7.18, ua-parser-js@^0.7.9:
   version "0.7.20"
